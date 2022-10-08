@@ -1,0 +1,14 @@
+/Users/davidgonzalez/Documents/personal_code/carsProject/carsBackEnd/bin/Debug/netcoreapp2.1/carsBackEnd.deps.json
+/Users/davidgonzalez/Documents/personal_code/carsProject/carsBackEnd/bin/Debug/netcoreapp2.1/carsBackEnd.runtimeconfig.json
+/Users/davidgonzalez/Documents/personal_code/carsProject/carsBackEnd/bin/Debug/netcoreapp2.1/carsBackEnd.runtimeconfig.dev.json
+/Users/davidgonzalez/Documents/personal_code/carsProject/carsBackEnd/bin/Debug/netcoreapp2.1/carsBackEnd.dll
+/Users/davidgonzalez/Documents/personal_code/carsProject/carsBackEnd/bin/Debug/netcoreapp2.1/carsBackEnd.pdb
+/Users/davidgonzalez/Documents/personal_code/carsProject/carsBackEnd/obj/Debug/netcoreapp2.1/carsBackEnd.csprojAssemblyReference.cache
+/Users/davidgonzalez/Documents/personal_code/carsProject/carsBackEnd/obj/Debug/netcoreapp2.1/carsBackEnd.csproj.CoreCompileInputs.cache
+/Users/davidgonzalez/Documents/personal_code/carsProject/carsBackEnd/obj/Debug/netcoreapp2.1/carsBackEnd.RazorAssemblyInfo.cache
+/Users/davidgonzalez/Documents/personal_code/carsProject/carsBackEnd/obj/Debug/netcoreapp2.1/carsBackEnd.RazorAssemblyInfo.cs
+/Users/davidgonzalez/Documents/personal_code/carsProject/carsBackEnd/obj/Debug/netcoreapp2.1/carsBackEnd.AssemblyInfoInputs.cache
+/Users/davidgonzalez/Documents/personal_code/carsProject/carsBackEnd/obj/Debug/netcoreapp2.1/carsBackEnd.AssemblyInfo.cs
+/Users/davidgonzalez/Documents/personal_code/carsProject/carsBackEnd/obj/Debug/netcoreapp2.1/carsBackEnd.RazorTargetAssemblyInfo.cache
+/Users/davidgonzalez/Documents/personal_code/carsProject/carsBackEnd/obj/Debug/netcoreapp2.1/carsBackEnd.dll
+/Users/davidgonzalez/Documents/personal_code/carsProject/carsBackEnd/obj/Debug/netcoreapp2.1/carsBackEnd.pdb
